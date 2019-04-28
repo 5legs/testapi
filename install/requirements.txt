@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+databases[postgresql]
+sqlalchemy
+netmiko
+pytest-runner
+requests
+docopt
+smc-python
+lxml
+urllib3
+pyping
+asyncpg
+psycopg2
+email-validator
+pytest
